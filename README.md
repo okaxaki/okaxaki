@@ -1,1 +1,1 @@
-[![okaxaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaxaki)]
+![okaxaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaxaki)
